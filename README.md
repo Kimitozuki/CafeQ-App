@@ -1,6 +1,4 @@
-# Kelompok7_PSI-G
+# CafeQ-App
 CafeQ an App for Final Project of Interactive System
-- Vincent Revel Aldisa (205150200111019)
-- Muhammad Fadhil Hidayatullah (205150200111014)
-- Muhammad Haikal Fajri (205150207111016)
-- Wildan Mufid Ramadhan (205150201111002)
+
+ An application that provide some information about cafes that's available here. We can book a cafe according to the number of seats available at that time and can book a cafe for the next few days. This project uses Kotlin as programming language and Firebase as database.
